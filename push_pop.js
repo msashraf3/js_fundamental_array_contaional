@@ -12,7 +12,7 @@ console.log(number);
 var which=number.pop();
 console.log(number);
 console.log(which+' '+'has been removed');
-
+// adding and removing something from the start
 number.unshift(20);
 console.log(number);
 number.shift();
